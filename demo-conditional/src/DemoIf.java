@@ -4,7 +4,7 @@ public class DemoIf {
 
     if (x >= 30) {
       System.out.println("x >= 30");
-    }else {
+    } else {
       System.out.println("x < 30");
     }
 
@@ -12,11 +12,11 @@ public class DemoIf {
 
     if (isXLargerThan30) {
       System.out.println("x >= 30");
-    }else {
+    } else {
       System.out.println("x < 30");
     }
+    // 8 primitives, String (equals(), charAt(), length())
 
-    
   }
   
 }
