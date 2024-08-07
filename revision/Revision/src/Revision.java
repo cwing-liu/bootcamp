@@ -13,13 +13,12 @@ public class Revision {
        System.out.println(s1.equals(s2)); // False
       boolean sameName = s1.equals(s2); 
        System.out.println(sameName); // False
-       System.out.println(s1 == s2); // False
     
        String myName = "Wing";
        System.out.println(myName.length()); // 4
        System.out.println(myName.length() >= 5); // False
        System.out.println(myName.length() == 5); // False
-       
+
   }
   
 }
